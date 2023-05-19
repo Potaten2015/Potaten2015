@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potaten2015)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **Potaten2015/Potaten2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
